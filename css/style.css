@@ -41,6 +41,7 @@ body {
     background-position: left top;
     padding-left: 40px;  /* Space between the bullet and text */
     margin-bottom: 10px; /* Space between paragraphs */
+    font-size: 18px;
 }
  
 .green {
