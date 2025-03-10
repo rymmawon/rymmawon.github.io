@@ -30,6 +30,7 @@ body {
 
 .about_section h1, h2 {
     color: #5e6f3b;
+    text-align: center;
 }
 
 .leaf-list li {
