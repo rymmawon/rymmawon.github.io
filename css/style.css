@@ -30,22 +30,6 @@ body {
 
 .about_section h1, h2 {
     color: #5e6f3b;
-    text-align: center;
-}
-
-.leaf-list li {
-    list-style-type: none;
-    background-image: url('../images/tea-leaves.png');
-    background-repeat: no-repeat;
-    background-size: 25px 25px;  /* This is the size of the leaf image */
-    background-position: left top;
-    padding-left: 40px;  /* Space between the bullet and text */
-    margin-bottom: 10px; /* Space between paragraphs */
-    font-size: 18px;
-}
- 
-.green {
-    font-size: 20px;
 }
 
 .container h1.text-center, .shadow {
@@ -56,9 +40,6 @@ body {
     margin: 35px;
     color: black;
     font-size: 20px;
-}
-.btn-leaf {
-    justify-content: center;
 }
 .contact .btn {
     margin: 10px;
@@ -109,6 +90,7 @@ body {
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
  }
+
 .master-container {
     justify-content: center;
     align-items: center;
@@ -366,3 +348,4 @@ border: 1px solid black;
 .number-right:hover::after {
 background-color: #666666;
 }
+
