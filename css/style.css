@@ -57,7 +57,15 @@ body {
     height: 100%;
     object-fit: cover;
 }
-
+.leaf-list li {
+    list-style-type: none;
+    background-image: url('../images/tea-leaves.png');
+    background-repeat: no-repeat;
+    background-size: 25px 25px;  /* This is the size of the leaf image */
+    background-position: left top;
+    padding-left: 40px;  /* Space between the bullet and text */
+    margin-bottom: 10px; /* Space between paragraphs */
+}
 .btn-primary {
     background-color: #5e6f3b;
     border-color: #5e6f3b;
