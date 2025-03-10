@@ -57,6 +57,9 @@ body {
     color: black;
     font-size: 20px;
 }
+.btn-leaf {
+    justify-content: center;
+}
 .contact .btn {
     margin: 10px;
 }
